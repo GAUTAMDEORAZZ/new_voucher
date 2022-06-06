@@ -1,0 +1,8 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+   padding: 6px;
+   background-color: aquamarine;
+   margin-bottom: 10px;
+}
